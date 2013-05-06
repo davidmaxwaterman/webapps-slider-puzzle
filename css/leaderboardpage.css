@@ -9,12 +9,12 @@
 
 @font-face {
     font-family: "MolotCustom";
-    src: local("Molot"), url("../fonts/Molot.woff");	 
+    src: local("Molot"), url("../lib/Molot/Molot.otf");	 
 }
 
 @font-face {
     font-family: "FugazOneCustom";
-    src: local("Fugaz One"), url("../fonts/FugazOne-Regular.ttf");	 
+    src: local("Fugaz One"), url("../lib/FugazOne/FugazOne-Regular.ttf");	 
 }
 
 #leaderboardPage {
