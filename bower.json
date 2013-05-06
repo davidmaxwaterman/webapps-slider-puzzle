@@ -1,0 +1,16 @@
+{
+  "name": "slider-puzzle",
+  "version": "1.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "iscroll": "latest",
+    "jquery": "~2.0.0",
+    "FugazOne": "http://www.google.com/fonts/download?kit=NZqmzdQR7ebKsq3wFjqmzltkqrIMaAZWyLYEoB48lSQ",
+    "Lato": "http://www.fontsquirrel.com/fonts/download/lato",
+    "Molot": "http://www.fontsquirrel.com/fonts/download/Molot"
+  }
+}

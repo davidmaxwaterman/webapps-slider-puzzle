@@ -72,18 +72,16 @@ FONTS
 
 * FugazOne-Regular.ttf
   License: SIL Open Font License, 1.1
-  License link: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-  http://www.google.com/webfonts/specimen/Fugaz+One
+  see bower.json
 
 * Lato-LightItalic.ttf
   Copyright [c] 2010-2011 by tyPoland Lukasz Dziedzic with Reserved Font Name "Lato".
   License: Licensed under the SIL Open Font License, V
-  http://www.ffonts.net/Lato-Light-Italic.font
+  see bower.json
 
 * Molot.woff (converted from original otf file)
   Author: Jovanny Lemonad
-  License: Freeware Free
-  http://www.fonts4free.net/molot-font.html
+  see bower.json
 
 ----------------------------------------------------------------------
 LIBRARIES
@@ -98,6 +96,7 @@ LIBRARIES
 At build time, the following node libraries are used
 (but not distributed with the application):
 
+* bower
 * grunt
 * grunt-contrib-cssmin
 * grunt-contrib-uglify

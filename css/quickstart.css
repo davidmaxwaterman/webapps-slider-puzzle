@@ -30,7 +30,7 @@
 
 @font-face {
     font-family: "MolotCustom";
-    src: local("Molot"), url("../fonts/Molot.woff");	 
+    src: local("Molot"), url("../lib/Molot/Molot.otf");	 
 }
 
 div#puzzlePauseBackground {
